@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Service\\BackEnd.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\BackEnd.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\BackEnd.Data.csproj",
+        "projectName": "BackEnd.Data",
+        "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\BackEnd.Data.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Entity\\BackEnd.Entity.csproj": {
+                "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Entity\\BackEnd.Entity.csproj"
+              },
+              "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj": {
+                "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Entity\\BackEnd.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Entity\\BackEnd.Entity.csproj",
+        "projectName": "BackEnd.Entity",
+        "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Entity\\BackEnd.Entity.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Logic\\BackEnd.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Logic\\BackEnd.Logic.csproj",
+        "projectName": "BackEnd.Logic",
+        "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Logic\\BackEnd.Logic.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\BackEnd.Data.csproj": {
+                "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\BackEnd.Data.csproj"
+              },
+              "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj": {
+                "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Service\\BackEnd.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Service\\BackEnd.Service.csproj",
+        "projectName": "BackEnd.Service",
+        "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Service\\BackEnd.Service.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\BackEnd.Data.csproj": {
+                "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Data\\BackEnd.Data.csproj"
+              },
+              "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Logic\\BackEnd.Logic.csproj": {
+                "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Logic\\BackEnd.Logic.csproj"
+              },
+              "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj": {
+                "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj",
+        "projectName": "BackEnd.Util",
+        "projectPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\BackEnd.Util.csproj",
+        "packagesPath": "C:\\Users\\HENRY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HENRY\\Desktop\\Test_Canvia\\BackEnd\\BackEnd.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HENRY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
